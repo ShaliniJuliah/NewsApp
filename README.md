@@ -28,9 +28,13 @@ Parse and display JSON data from the API using Retrofit  libraries.
 
 # Technology Stack
 Development Environment: Android Studio
+
 Programming Language: Java
+
 API Integration: Retrofit for API requests and JSON parsing
+
 User Interface: XML layouts, RecyclerView, CardView, Navigation Components
+
 Database: SQLite for local storage of user preferences and saved articles
 
 # Demo Video
